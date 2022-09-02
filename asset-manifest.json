@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/streaming-service/static/css/main.a0e84fc4.css",
+    "main.js": "/streaming-service/static/js/main.0f27d2c1.js",
+    "static/media/icon-person.png": "/streaming-service/static/media/icon-person.a952913a7a42e036aa49.png",
+    "static/media/19021-free-guy.webp": "/streaming-service/static/media/19021-free-guy.31f959ecf4ec4b485dc6.webp",
+    "static/media/19040-ghostbusters-afterlife.webp": "/streaming-service/static/media/19040-ghostbusters-afterlife.71d94180fc59a685bc1a.webp",
+    "static/media/23010-halloween-kills.webp": "/streaming-service/static/media/23010-halloween-kills.b196ca527056bec881cc.webp",
+    "static/media/23037-the-french-dispatch.webp": "/streaming-service/static/media/23037-the-french-dispatch.3cfa88c941eac32c8ee0.webp",
+    "static/media/19497-ma.webp": "/streaming-service/static/media/19497-ma.5e06f96db668e2f2f130.webp",
+    "index.html": "/streaming-service/index.html",
+    "main.a0e84fc4.css.map": "/streaming-service/static/css/main.a0e84fc4.css.map",
+    "main.0f27d2c1.js.map": "/streaming-service/static/js/main.0f27d2c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e84fc4.css",
+    "static/js/main.0f27d2c1.js"
+  ]
+}
